@@ -285,3 +285,4 @@ C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\BooksShopping
 C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\BooksShoppingCartMvc\BooksShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\BooksShoppingCartMvc\BooksShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\BooksShoppingCartMvc\BooksShoppingCartMvcUI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\daz13\OneDrive\Рабочий стол\ProgrammingNewLife\BooksShoppingCartMvc\BooksShoppingCartMvcUI\obj\Debug\net8.0\BooksShoppingCartMvcUI.sourcelink.json
