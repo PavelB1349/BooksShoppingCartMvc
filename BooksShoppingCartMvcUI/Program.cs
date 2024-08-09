@@ -24,13 +24,15 @@ namespace BooksShoppingCartMvcUI
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
+
+            // Добавляет роли и админа в ДБ
             //using (var scope = app.Services.CreateScope())
             //{
             //    await DbSeeder.SeedDefaultData(scope.ServiceProvider);
             //}
 
-                // Configure the HTTP request pipeline.
-                if (app.Environment.IsDevelopment())
+            // Configure the HTTP request pipeline.
+            if (app.Environment.IsDevelopment())
                 {
                     app.UseMigrationsEndPoint();
                 }

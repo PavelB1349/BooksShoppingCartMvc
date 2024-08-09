@@ -3,6 +3,7 @@ using BooksShoppingCartMvcUI.Constants;
 
 namespace BooksShoppingCartMvcUI.Data
 {
+    // Добавляет роли в базу данныхх и сздаёт админа
     public class DbSeeder
     {
         public static async Task SeedDefaultData(IServiceProvider service)
