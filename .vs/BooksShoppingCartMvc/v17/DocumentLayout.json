@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\BooksShoppingCartMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DF780AD-A1D7-49BA-9715-E998F228CED2}|BooksShoppingCartMvcUI\\BooksShoppingCartMvcUI.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\booksshoppingcartmvc\\booksshoppingcartmvcui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DF780AD-A1D7-49BA-9715-E998F228CED2}|BooksShoppingCartMvcUI\\BooksShoppingCartMvcUI.csproj|solutionrelative:booksshoppingcartmvcui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DF780AD-A1D7-49BA-9715-E998F228CED2}|BooksShoppingCartMvcUI\\BooksShoppingCartMvcUI.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\booksshoppingcartmvc\\booksshoppingcartmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DF780AD-A1D7-49BA-9715-E998F228CED2}|BooksShoppingCartMvcUI\\BooksShoppingCartMvcUI.csproj|solutionrelative:booksshoppingcartmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DF780AD-A1D7-49BA-9715-E998F228CED2}|BooksShoppingCartMvcUI\\BooksShoppingCartMvcUI.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\booksshoppingcartmvc\\booksshoppingcartmvcui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2DF780AD-A1D7-49BA-9715-E998F228CED2}|BooksShoppingCartMvcUI\\BooksShoppingCartMvcUI.csproj|solutionrelative:booksshoppingcartmvcui\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2DF780AD-A1D7-49BA-9715-E998F228CED2}|BooksShoppingCartMvcUI\\BooksShoppingCartMvcUI.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\booksshoppingcartmvc\\booksshoppingcartmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2DF780AD-A1D7-49BA-9715-E998F228CED2}|BooksShoppingCartMvcUI\\BooksShoppingCartMvcUI.csproj|solutionrelative:booksshoppingcartmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2DF780AD-A1D7-49BA-9715-E998F228CED2}|BooksShoppingCartMvcUI\\BooksShoppingCartMvcUI.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\booksshoppingcartmvc\\booksshoppingcartmvcui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DF780AD-A1D7-49BA-9715-E998F228CED2}|BooksShoppingCartMvcUI\\BooksShoppingCartMvcUI.csproj|solutionrelative:booksshoppingcartmvcui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DF780AD-A1D7-49BA-9715-E998F228CED2}|BooksShoppingCartMvcUI\\BooksShoppingCartMvcUI.csproj|c:\\users\\daz13\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\programmingnewlife\\booksshoppingcartmvc\\booksshoppingcartmvcui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,23 +48,21 @@
               "RelativeDocumentMoniker": "BooksShoppingCartMvcUI\\Views\\Shared\\_LoginPartial.cshtml",
               "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\BooksShoppingCartMvc\\BooksShoppingCartMvcUI\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "BooksShoppingCartMvcUI\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T11:22:45.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T11:22:45.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\BooksShoppingCartMvc\\BooksShoppingCartMvcUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BooksShoppingCartMvcUI\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\BooksShoppingCartMvc\\BooksShoppingCartMvcUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BooksShoppingCartMvcUI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABcAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T11:11:54.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T11:11:54.937Z"
             },
             {
               "$type": "Document",
@@ -76,18 +74,17 @@
               "RelativeToolTip": "BooksShoppingCartMvcUI\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-09T11:12:56.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T11:12:56.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\BooksShoppingCartMvc\\BooksShoppingCartMvcUI\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BooksShoppingCartMvcUI\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\daz13\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProgrammingNewLife\\BooksShoppingCartMvc\\BooksShoppingCartMvcUI\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BooksShoppingCartMvcUI\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-09T05:37:01.136Z",
               "EditorCaption": ""
